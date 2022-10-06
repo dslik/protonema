@@ -1,5 +1,5 @@
 # Protonema Baseboard
-![[1510-8010/images/1510A.jpg]]
+![Photo of a 1510A baseboard](./1510-8010/images/1510A.jpg)
 
 ## Project Status
 

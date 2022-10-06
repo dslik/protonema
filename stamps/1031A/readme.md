@@ -1,5 +1,5 @@
 # Protonema Pi Pico Board
-![[1031-8010/images/1031A.jpg]]
+![Photo of a 1031A Pi Pico stamp](1031-8010/images/1031A.jpg)
 
 ## Project Status
 
