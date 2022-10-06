@@ -14,6 +14,6 @@ The Protonema Pi Pico board allows a Raspberry Pi microcontroller to be connecte
 * Provide a starting point for experimenting with and programming Pi Pico microcontrollers.
 
 ## Project Deliverables
-* Stamp board
-* Assembly documentation
+* Stamp PCB design
+* [Assembly documentation](./1031-8010.pdf)
 * Pi Pico Experimenters Guide

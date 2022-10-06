@@ -14,5 +14,5 @@ The Protonema baseboard is a letter-sized portable prototyping board various sta
 * Provide a portable prototyping board that can accommodate a variety of combinations of breadboard and stamps.
 
 ## Project Deliverables
-* Baseboard
-* Assembly documentation
+* Baseboard PCB design
+* [Assembly documentation](./1510-8010.pdf)
