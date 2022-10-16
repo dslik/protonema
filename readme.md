@@ -20,3 +20,11 @@ Protonema includes:
 * Open source: Available for use and extension with minimal restrictions. See the [license](./license,md) for more details.
 * Extensible: Pluggable [stamps](stamps/readme.md) implement functions not easily constructed on a breadboard. This allows the system to be used to teach and prototype a wide variety of different subject areas, including power electronics, computer organization, audio processing, etc.
 * Built-in 3V3 and 5V power distribution, with clear visual indication of power domains
+
+## Components
+
+Part # | Name | Status | OSHWA | Cert # |
+|-|-|-|-|-|
+| [1011A](./stamps/1011A) v1.0 | Horizental Breadboard Stamp | Complete | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1031A](./stamps/1031A) v1.1 | Raspberry Pi Pico Stamp | Complete | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1510A](./baseboards/1510A) v1.0 | 3x4 Baseboard | Complete | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000015](https://certification.oshwa.org/ca000015.html) |
