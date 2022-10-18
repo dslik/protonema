@@ -25,6 +25,6 @@ Protonema includes:
 
 Part # | Name | Status | OSHWA | Cert # |
 |-|-|-|-|-|
-| [1011A](./stamps/1011A) v1.0 | Horizental Breadboard Stamp | Complete | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1011A](./stamps/1011A) v1.0 | Horizontal Breadboard Stamp | Complete | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1031A](./stamps/1031A) v1.1 | Raspberry Pi Pico Stamp | Complete | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1510A](./baseboards/1510A) v1.0 | 3x4 Baseboard | Complete | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000015](https://certification.oshwa.org/ca000015.html) |
