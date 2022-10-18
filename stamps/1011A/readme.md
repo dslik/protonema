@@ -15,4 +15,4 @@ The Protonema Horizental Breadboard occupies two horizental stamps and provides 
 
 ## Project Deliverables
 * Stamp PCB design
-* [Assembly documentation](./1011-8010.pdf)
+* [Assembly documentation](https://dslik.github.io/protonema/stamps/1011A/1011-8010.pdf)
