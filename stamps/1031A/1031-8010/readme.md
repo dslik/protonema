@@ -19,15 +19,6 @@ Installing Sphinx
 7. From the Mac Terminal, run `sudo port select --set python3 python38` to set python 3.8 as default
 8. From the Mac Terminal, run `sudo port select --set sphinx py38-sphinx` to set python 3.8 as the default for Sphinx
 
-The following additional packages may be required:
-
-* `sudo port install py38-sphinxcontrib-qthelp`
-* `sudo port install py38-sphinxcontrib-serializinghtml`
-* `sudo port install py38-sphinxcontrib-htmlhelp`
-* `sudo port install py38-sphinxcontrib-jsmath`
-* `sudo port install py38-sphinxcontrib-devhelp`
-* `sudo port install py38-sphinxcontrib-applehelp`
-
 Installing LaTeX
 ----------------
 
