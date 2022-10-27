@@ -4,30 +4,29 @@ This repository contains the source files used to build document number 1031-801
 
 The document is written using reStructuredText, and built using Sphinx (http://www.sphinx-doc.org/en/master/) to generate a PDF via LaTeX.
 
-Build Instructions for Macintosh 10.15
-======================================
+Build Instructions for MacOS 12.x
+=================================
 
 Installing Sphinx
 -----------------
 
 1. Install xcode from the Macintosh App Store
-2. From the Mac Terminal, run `xcode-select --install` to install the xcode Command Line Tools
-3. From the Mac Finder, run the xcode application to accept the license
-4. Download macports from https://www.macports.org/install.php
-5. From the Mac Finder, run the macports Installer application
-6. From the Mac Terminal, run `sudo port install py36-sphinx` to install sphinx
-7. From the Mac Terminal, run `sudo port select --set python python36` to set python 3.6 as default
-8. From the Mac Terminal, run `sudo port select --set sphinx py36-sphinx` to set python 3.6 as the default for Sphinx
-9. From the Mac Terminal, run `sudo port install py36-sphinxcontrib-bibtex` to install the bibtex bibliography extension to sphinx
+2. From the Mac Terminal, run `sudo xcodebuild -license` to install the xcode Command Line Tools
+3. Download macports from https://www.macports.org/install.php
+4. From the Mac Finder, run the macports Installer application
+5. From the Mac Terminal, run `sudo port install py38-sphinx` to install sphinx
+6. From the Mac Terminal, run `sudo port select --set python python38` to set python 3.8 as default
+7. From the Mac Terminal, run `sudo port select --set python3 python38` to set python 3.8 as default
+8. From the Mac Terminal, run `sudo port select --set sphinx py38-sphinx` to set python 3.8 as the default for Sphinx
 
 The following additional packages may be required:
 
-* `sudo port install py36-sphinxcontrib-qthelp`
-* `sudo port install py36-sphinxcontrib-serializinghtml`
-* `sudo port install py36-sphinxcontrib-htmlhelp`
-* `sudo port install py36-sphinxcontrib-jsmath`
-* `sudo port install py36-sphinxcontrib-devhelp`
-* `sudo port install py36-sphinxcontrib-applehelp`
+* `sudo port install py38-sphinxcontrib-qthelp`
+* `sudo port install py38-sphinxcontrib-serializinghtml`
+* `sudo port install py38-sphinxcontrib-htmlhelp`
+* `sudo port install py38-sphinxcontrib-jsmath`
+* `sudo port install py38-sphinxcontrib-devhelp`
+* `sudo port install py38-sphinxcontrib-applehelp`
 
 Installing LaTeX
 ----------------
