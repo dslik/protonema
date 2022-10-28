@@ -1,6 +1,6 @@
-# 1031A Assembly Manual
+# 1510A Assembly Manual
 
-This repository contains the source files used to build document number 1031-8010, the 1031A Assembly manual.
+This repository contains the source files used to build document number 1510-8010, the 1510A Assembly manual.
 
 The document is written using reStructuredText, and built using Sphinx (http://www.sphinx-doc.org/en/master/) to generate a PDF via LaTeX.
 
