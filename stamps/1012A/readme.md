@@ -5,7 +5,7 @@
 
 Definition | Prototype HW | Final HW | Software | Assembly Docs | Usage Docs |
 |-|-|-|-|-|-|
-100% | 100% | 100% | N/A | 100% | N/A |
+100% | 100% | 100% | N/A | 90%% | N/A |
 
 ## Project Overview
 The Protonema Vertical Breadboard occupies three stamps and provides a 59 row breadboarding area for prototyping.
