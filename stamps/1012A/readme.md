@@ -14,5 +14,5 @@ The Protonema Vertical Breadboard occupies three stamps and provides a 59 row br
 * Provide a medium-sized breadboard for prototyping.
 
 ## Project Deliverables
-* Stamp PCB design
+* [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1012A/1012-0101/latest)
 * [Assembly documentation](https://dslik.github.io/protonema/stamps/1012A/1012-8010.pdf)

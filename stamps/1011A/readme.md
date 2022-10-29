@@ -14,5 +14,5 @@ The Protonema Horizontal Breadboard occupies two horizontal stamps and provides 
 * Provide a small breadboard for prototyping.
 
 ## Project Deliverables
-* Stamp PCB design
+* [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1011A/1011-0101/latest)
 * [Assembly documentation](https://dslik.github.io/protonema/stamps/1011A/1011-8010.pdf)
