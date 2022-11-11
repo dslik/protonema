@@ -16,6 +16,7 @@ The Protonema Pi Pico board allows a Raspberry Pi microcontroller to be connecte
 ## Project Deliverables
 * [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1031A/1031-0102/latest)
 * [Assembly documentation](https://dslik.github.io/protonema/stamps/1031A/1031-8010.pdf)
+* [Sample software](https://github.com/dslik/protonema/tree/main/stamps/1031A/1031-9101)
 * Pi Pico Experimenters Guide
 
 ## Important Copyright Notice
