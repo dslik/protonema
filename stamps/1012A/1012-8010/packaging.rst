@@ -28,7 +28,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_1.jpg
             :align:  center
             :figwidth: 100%
            

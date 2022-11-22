@@ -440,7 +440,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/packing_esd_large_bag.jpg
             :align:  center
             :figwidth: 100%
            
@@ -472,7 +472,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/packing_esd_box.jpg
             :align:  center
             :figwidth: 100%
            
