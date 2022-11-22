@@ -26,8 +26,11 @@ Protonema includes:
 Part # | Name | Status | OSHWA | Cert # |
 |-|-|-|-|-|
 | [1011A v1.0](./stamps/1011A) | [Horizontal Breadboard Stamp](./stamps/1011A) | Complete | ![OSHWA Logo](./images/oshwa_cert_logo.png) |  [CA000016](https://certification.oshwa.org/ca000016.html)  |
-| [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Draft| ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Draft | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1031A v1.1](./stamps/1031A) | [Raspberry Pi Pico Stamp](./stamps/1031A) | Complete | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
-| 1038A v1.0 | LED Display Stamp | Coming Soon | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| 1032A v1.0 | LED Matrix Stamp | Coming Soon | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1038A v1.0[(./stamps/1038A) | [LED Display Stamp](./stamps/1038A) | Coming Soon | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | 1065A v1.0 | SD Card Stamp | Coming Soon | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1510A v1.0](./baseboards/1510A) | [3x4 Baseboard](./baseboards/1510A) | Complete | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000015](https://certification.oshwa.org/ca000015.html) |
+| 1522A v1.0 | 2x2 Baseboard | Coming Soon | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| 1532A v1.0 | 3x2 Baseboard | Coming Soon | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
