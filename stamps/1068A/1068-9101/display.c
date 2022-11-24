@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------------
-// OSRAM SCF5742 bit-bang driver for SC2040
+// OSRAM SCF5742 bit-bang driver for RP2040
 // ---------------------------------------------------------------------------------
 // These library routines allow you to control an OSRAM SC5742 intelligent serial
 // display using four GPIO lines.
