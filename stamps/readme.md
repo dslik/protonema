@@ -26,9 +26,13 @@ The Intelligent Display stamp is a 4 character smart display that can be used to
 
 # Breadboard Stamps
 
-### 1011A Stamp - Breadboards
+### 1011A Horizontal Breadboard Stamp
 
 ![1011A](./1011A/1011-0101/latest/pcb_top.png)
+
+### 1012A Vertical Breadboard Stamp
+
+![1012A](./1012A/1012-0101/latest/pcb_top.png)
 
 # Templates
 
