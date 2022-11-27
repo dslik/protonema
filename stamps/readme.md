@@ -1,10 +1,40 @@
 Protonema stamps provide various functions for building projects.
 
-### 1011A Stamp - Breadboards
+### 1031A Stamp - Raspberry Pi Pico Stamp
+
+![1031A](./1031A/1031-0101/latest/pcb_top.png)
+
+The Raspberry Pi Pico stamp allows for experimentation with microcontrollers using the RP2040. All I/O lines are available, plus a higher precision 3.0 volt reference for analog to digital conversion.
+
+### 1032A Stamp - LED Matrix Stamp
+
+![1032A](./1032A/1032-0101/latest/pcb_top.png)
+
+The LED Matrix stamp is an 8x8 LED matrix that can be used to display small images and create simple games. It is connected to a processor stamp using multiplexed GPIO lines.
+
+### 1038A Stamp - LED Display Stamp
+
+![1038A](./1038A/1038-0101/latest/pcb_top.png)
+
+The LED Display stamp is a 4 digit seven-segment LED display that can be used to display small numeric values. It is connected to a processor stamp using multiplexed GPIO lines.
+
+### 1068A Stamp - Intelligent Display Stamp
+
+![1068A](./1068A/1068-0101/latest/pcb_top.png)
+
+The Intelligent Display stamp is a 4 character smart display that can be used to display small text messages and custom graphics. It is connected to a processor stamp using a simple serial protocol.
+
+# Breadboard Stamps
+
+### 1011A Horizontal Breadboard Stamp
 
 ![1011A](./1011A/1011-0101/latest/pcb_top.png)
 
-Breadboard Modules
+### 1012A Vertical Breadboard Stamp
+
+![1012A](./1012A/1012-0101/latest/pcb_top.png)
+
+# Templates
 
 ### 1020A/1021A/1022A Stamps - Templates
 
@@ -12,10 +42,4 @@ Breadboard Modules
 ![1022A](./1022A/1022-0101/latest/pcb_top.png) ![Template](./images/stamp_template.jpg)
 
 Use these as a starting point for creating your own stamps.
-
-### 1031A Stamp - Raspberry Pi Pico
-
-![1031A](./1031A/1031-0101/latest/pcb_top.png)
-
-The Raspberry Pi Pico stamp allows for experimentation with microcontrollers using the RP2040. All I/O lines are available, plus a higher precision 3.0 volt reference for analog to digital conversion.
 
