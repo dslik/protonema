@@ -1,29 +1,34 @@
 // ---------------------------------------------------------------------------------
-// Four-digit seven-segment driver for RP2040
+// LM75 Temperature Sensor Utilities
 // ---------------------------------------------------------------------------------
-// These library routines allow you to control a multiplexed seven segement display
-// using GPIO lines.
+// These library routines allow you to read temperature values from an LM75
+// tempreature sensor using I2C.
 //
 // This file contains prototypes and constants.
 // 
 // Notes:
 // * Modify the pin constants to correspond to the pins you wire up
-// * If the RP2040 is halted, the current digit will display with full brightness
-//   Make sure this is within safe current limits. 
+// * The temperature sensor will read 0.2 - 0.5 degrees low for the first
+//   200-500 ms after being powered up.
 // ---------------------------------------------------------------------------------
 // Source:  Own work (David Slik, https://github.com/dslik)
+//          Routines based on datasheet: https://www.ti.com/lit/ds/symlink/tmp75.pdf
 // License: CERN-OHL-S v2 (https://github.com/dslik/protonema/blob/main/license.md)
 // ---------------------------------------------------------------------------------
+#pragma once
+#ifndef LM75_H
+#define LM75_H
+
 #include <stdlib.h>
 #include "pico/stdlib.h"
 
 // Pin Constants
-#define SEG_BASE 0  // Eight sequential GPIO lines corresponding to LED segments
-#define DIG_BASE 8  // Four sequential GPIO lines corresponding to LED digits
+#define I2C_LM75_ADDR   0x77	// I2C address of the LM75
+#define I2C_SDA_PIN     16		// GPIO line to use for SDA
+#define I2C_SCL_PIN     17		// GPIO line to use for SCL
 
 // Prototypes
-void led_display_init(void);
-bool led_display_refresh(struct repeating_timer *t);
-void led_display_set_value(uint16_t value);
-uint16_t led_display_get_value(void);
-void led_display_set_dp(uint8_t value);
+void lm75_init(uint8_t address);
+float lm75_read(uint8_t address);
+
+#endif // LM75_H
