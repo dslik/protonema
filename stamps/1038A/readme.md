@@ -14,7 +14,8 @@ The Protonema LED Display stamp demonstrates how to drive a four-digit LED displ
 * Provide a starting point for experimenting with LED multiplexing, and to provide a display for showing values.
 
 ## Project Deliverables
-* [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1038A/1038-0102/latest)
+* [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1038A/1038-0101/latest)
 * [Assembly documentation](https://dslik.github.io/protonema/stamps/1038A/1038-8010.pdf)
-* [Sample software](https://github.com/dslik/protonema/tree/main/stamps/1038A/1038-9101)
+* [Sample software - Counter](https://github.com/dslik/protonema/tree/main/stamps/1038A/1038-9101)
+* [Sample software - Temperature Display](https://github.com/dslik/protonema/tree/main/stamps/1038A/1038-9102)
 * LED Display Experimenters Guide
