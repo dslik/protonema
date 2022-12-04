@@ -34,6 +34,8 @@ Project Keywords: _**PROTONEMA, STAMP, ELECTRONICS PROTOTYPING, LEDS**_
 
 Where can the documentation be found for your project?: _**https://dslik.github.io/protonema/stamps/1038A/1038-8010.pdf**_
 
+Check that "All project documentation and design files are available in the preferred format for making changes".
+
 Does your project incorporate or build upon other open projects that are not currently certified by OSHWA? If so, use this space to cite those projects: _**If you have based your design on an existing Protonema stamp, put the OSHWA certification number here.**_
 
 What license is your project's hardware licensed under?: **CERN-OHL-S-2.0**
