@@ -48,20 +48,25 @@ JLC lead-free PCB
             :align:  center
             :figwidth: 97%
 
-PARA LIGHT A3880E
------------------
+PARALIGHT A3880E
+----------------
 
 .. tabularcolumns:: |>{\raggedright\arraybackslash}\Y{1}|
 
 .. _tbl_rohs_paralight_A3880E:
 
-.. list-table:: PARA LIGHT A3880E RoHS Compliance
+.. list-table:: PARALIGHT A3880E RoHS Compliance
     :class: longtable
     :header-rows: 1
     :align: center 
 
-    * - Declaration for PARA LIGHT A3880E - Currently Unavailable
-    * - Currently Unavailable
+    * - Declaration for PARALIGHT A3880E - Received via e-mail
+    * - 
+        .. _fig_rohs_paralight_A3880E:
+
+        .. figure:: /images/rohs/paralight_a3880e.pdf
+            :align:  center
+            :figwidth: 97%
 
 .. raw:: latex
 

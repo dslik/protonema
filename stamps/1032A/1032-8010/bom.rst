@@ -39,7 +39,7 @@ The parts required to assemble a :math:`\constProdNum` are listed in :numref:`tb
     * - DS1
       - 1
       - 8x8 32mm LED Matrix Display
-      - Para Light
+      - Paralight
       - `A3880E <https://www.paralightusa.com/product/3880/>`_
       - `Tayda <https://www.taydaelectronics.com/led-displays/dot-matrix/8x8-dot-matrix-led-display-red-3mm-common-cathode.html>`_
       - $1.82
