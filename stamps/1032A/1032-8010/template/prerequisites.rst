@@ -23,7 +23,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 2.1.1
       - 0102-0100 - Safety reporting policies and procedures training
 
         .. raw:: latex
@@ -36,7 +36,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 2
+    * - 2.1.2
       - 0102-0101 - Material safety data sheets training
 
         .. raw:: latex
@@ -49,7 +49,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 3
+    * - 2.1.3
       - 0102-0102 - Solder handling and disposal policies and procedures training
 
         .. raw:: latex
@@ -62,7 +62,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 4
+    * - 2.1.4
       - 0102-0105 - Electro-static discharge controls policies and procedures training
 
         .. raw:: latex
@@ -97,7 +97,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 2.2.1
       - 0103-0202 - ANSI/ESD S20.20 Electro-static discharge controls
 
         .. raw:: latex
@@ -110,7 +110,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 2
+    * - 2.2.2
       - 0103-0203 - General components handling
 
         .. raw:: latex
@@ -123,7 +123,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 3
+    * - 2.2.3
       - 0103-0414 - 5040-XTS reflow station
 
         .. raw:: latex
@@ -136,7 +136,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 4
+    * - 2.2.4
       - 0103-0301 - IPC-A-610G - Acceptability of electronic assemblies
 
         .. raw:: latex
@@ -149,7 +149,7 @@ By signing (or applying your stamp) on the right, you indicate that you have com
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 5
+    * - 2.2.5
       - 0103-0302 - IPC-J-STD-001F - Soldered electrical connections
 
         .. raw:: latex

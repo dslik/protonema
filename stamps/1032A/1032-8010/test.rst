@@ -21,13 +21,13 @@ This test process takes 2 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 5.1.1
       - Verify that there are no loose parts.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 5.1.2
       - Verify that there are no visible fingerprints.
       - 
         .. raw:: latex
@@ -57,7 +57,7 @@ This test process takes 2 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 5.2.1
       - Connect the 1032A to a baseboard and to a pre-programmed 1031A, as shown below. Connect power and verify that all of the LEDs light up in sequence.
 
         .. raw:: latex
@@ -105,7 +105,7 @@ This test process takes 1 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 5.3.1
       - Using the tweezers, affix QC Passed sticker in location shown below, then write down the serial number from the QC sticker below the "Signature/Stamp" in the column to the right.
 
         .. raw:: latex
@@ -121,7 +121,7 @@ This test process takes 1 minutes.
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 5.3.2
       - Take two photographs, one of the front of the :math:`\constProdNum`, and one of the back of the :math:`\constProdNum`.
       - 
         .. raw:: latex
@@ -153,7 +153,7 @@ This test process takes 2 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 5.4.1
       - Place the :math:`\constProdNum` module in the anti-static bag.
 
         .. raw:: latex
@@ -169,7 +169,7 @@ This test process takes 2 minutes.
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 5.4.2
       - Take an A4 plastic bag, and place the :math:`\constProdNum`, along with this document, in the "QC Fail" bin
 
         .. raw:: latex

@@ -21,19 +21,19 @@ This packaging process takes 5 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 7.1.1
       - If the ESD gloves have contacted solder paste, or are soiled, they shall be disposed of in the standard waste bin.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 7.1.2
       - If there is unused solder wire on the spool, it shall be returned to stores.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 3
+    * - 7.1.3
       - Loose component packaging shall be disposed of in the standard waste bin.
       - 
         .. raw:: latex
@@ -60,7 +60,7 @@ This cleanup process takes 5 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 7.2.1
       - All tools shall be returned to the assembly tools container, and returned to the stores supply shelf.
 
         .. raw:: latex
@@ -72,28 +72,24 @@ This cleanup process takes 5 minutes.
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 7.2.2
       - Remove this document from the springback binder.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 3
+    * - 7.2.3
       - Print a new copy of this document, and insert it into the springback binder that this document was originally in.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 4
+    * - 7.2.4
       - Return the springback binder with the newly printed document to the :math:`\constProdNum` section of the store supply shelf.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-
-.. raw:: latex
-
-          \newpage
 
 Workspace
 *********
@@ -114,7 +110,7 @@ This packaging process takes 5 minutes.
     * - Step #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 7.3.1
       - Make sure that the workspace is clean and as it was when you started the assembly.
 
         .. raw:: latex

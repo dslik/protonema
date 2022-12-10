@@ -249,7 +249,7 @@ All reels are stored in the bin labelled "1XXX Reels" on the shelf labelled "1XX
 
 .. _fig_assembly_reels:
 
-.. figure:: /images/fpo_half.pdf
+.. figure:: /images/parts_reels.jpg
     :align:  center
     :figwidth: 100%
    
