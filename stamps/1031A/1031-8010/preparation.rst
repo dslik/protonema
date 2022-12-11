@@ -29,21 +29,21 @@ Before starting assembly, check out an assembly desk for a minimum of one hour. 
     * - Step
       - Description
       - Signature/Stamp
-    * - 1
+    * - 3.1.1
       - Verify that the workspace has a clean assembly mat and anti-static mat, and that the cleaning record has been signed since last use.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 2
+    * - 3.1.2
       - Verify that the HEPA fume extractor turns on, and you can feel air suction from the nozzle.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
 
-    * - 3
+    * - 3.1.3
       - Verify that the 5040-XTS rework station soldering iron tip is not worn down. If it is worn down, obtain a new 900M-T-I tip from the stores department.
       - 
         .. raw:: latex
@@ -59,7 +59,7 @@ Obtain each of the below consumable items from the stores department:
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1031_consumables:
+.. _tbl_consumables:
 
 .. list-table:: Assembly consumables
     :class: longtable
@@ -69,7 +69,7 @@ Obtain each of the below consumable items from the stores department:
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 3.2.1
       - 
         .. figure:: /images/consumables_gloves.jpg
             :align:  center
@@ -83,7 +83,7 @@ Obtain each of the below consumable items from the stores department:
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
 
-    * - 2
+    * - 3.2.2
       - 
         .. figure:: /images/consumables_solder.jpg
             :align:  center
@@ -102,7 +102,7 @@ Obtain each of the below consumable items from the stores department:
 Project tools
 *************
 
-Obtain a tools container labelled "1XXX Assembly Tools" from the 1XXX section of the stores supply shelf. At your assembly desk, use :numref:`tbl_1031_tools` to verify that all the required tools are present.
+Obtain a tools container labelled "1XXX Assembly Tools" from the 1XXX section of the stores supply shelf. At your assembly desk, use :numref:`tbl_tools` to verify that all the required tools are present.
 
 If any required tools are missing, return all tools and the tools container to the stores department, and obtain another tools container.
 
@@ -120,7 +120,7 @@ Remove each of the following tools from the tools container, and place them on t
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1031_tools:
+.. _tbl_tools:
 
 .. list-table:: Assembly tools
     :class: longtable
@@ -130,7 +130,7 @@ Remove each of the following tools from the tools container, and place them on t
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 3.3.1
       - 
         .. figure:: /images/tools_tray.jpg
             :align:  center
@@ -141,7 +141,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 2
+    * - 3.3.2
       - 
         .. figure:: /images/tools_torque_phillips.jpg
             :align:  center
@@ -152,7 +152,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 3
+    * - 3.3.3
       - 
         .. figure:: /images/tools_tweezers.jpg
             :align:  center
@@ -163,7 +163,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 4
+    * - 3.3.4
       - 
         .. figure:: /images/tools_marker.jpg
             :align:  center
@@ -174,7 +174,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 5
+    * - 3.3.5
       - 
         .. figure:: /images/fpo_table.pdf
             :align:  center
@@ -185,7 +185,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 6
+    * - 3.3.6
       - 
         .. figure:: /images/tools_programmer_cable.jpg
             :align:  center
@@ -196,7 +196,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 7
+    * - 3.3.7
       - 
         .. figure:: /images/tools_usb_cable.jpg
             :align:  center
@@ -207,7 +207,7 @@ Remove each of the following tools from the tools container, and place them on t
         .. raw:: latex
 
           \raisebox{15\height}{\includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}}
-    * - 8
+    * - 3.3.8
       - 
         .. figure:: /images/tools_scissors.jpg
             :align:  center
@@ -237,7 +237,7 @@ NOTICE: PCBs are removed from manufacturer packaging only when needed.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1031_pcbs:
+.. _tbl_pcbs:
 
 .. list-table:: PCBs and PCBAs
     :class: longtable
@@ -247,7 +247,7 @@ NOTICE: PCBs are removed from manufacturer packaging only when needed.
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 3.4.1.1
       - No marking required
 
         .. raw:: latex
@@ -258,7 +258,7 @@ NOTICE: PCBs are removed from manufacturer packaging only when needed.
             :align:  center
             :figwidth: 100%
            
-            1x 1031-0101 v1 - Raspberry Pi Pico Stamp PCB
+            1x :math:`\constPartNum`-0101 v1.1 - Raspberry Pi Pico Stamp PCB
       - 
         .. raw:: latex
 
@@ -271,11 +271,11 @@ NOTICE: PCBs are removed from manufacturer packaging only when needed.
 Reel cuttings
 -------------
 
-All reels are stored in the bin labelled "10XX Reels" on the shelf labelled "1XXX Components". As this is a manually assembled product (no automated pick-and-place), tape should be cut off as needed for the number of units being assembled, and placed in the assembly tray.
+All reels are stored in the bin labelled "1XXX Reels" on the shelf labelled "1XXX Components". As this is a manually assembled product (no automated pick-and-place), tape should be cut off as needed for the number of units being assembled, and placed in the assembly tray.
 
 .. _fig_assembly_reels:
 
-.. figure:: /images/fpo_half.pdf
+.. figure:: /images/parts_reels.jpg
     :align:  center
     :figwidth: 100%
    
@@ -287,7 +287,7 @@ Cut off the indicated number of parts (multipled by the number of units to be as
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_2810_reels:
+.. _tbl_reels:
 
 .. list-table:: Assembly reels
     :class: longtable
@@ -413,7 +413,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1031_loose_parts:
+.. _tbl_loose_parts:
 
 .. list-table:: Loose components
     :class: longtable
@@ -423,7 +423,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 3.4.3.1
       - No marking required
 
         .. raw:: latex
@@ -439,7 +439,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 3.4.3.2
       - No marking required
 
         .. raw:: latex
@@ -455,7 +455,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 3
+    * - 3.4.3.3
       - No marking required
 
         .. raw:: latex
@@ -471,7 +471,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 4
+    * - 3.4.3.4
       - No marking required
 
         .. raw:: latex
@@ -487,7 +487,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 5
+    * - 3.4.3.5
       - No marking required
 
         .. raw:: latex
@@ -503,7 +503,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 6
+    * - 3.4.3.6
       - No marking required
 
         .. raw:: latex
@@ -519,7 +519,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 7
+    * - 3.4.3.7
       - No marking required
 
         .. raw:: latex
@@ -535,7 +535,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 8
+    * - 3.4.3.8
       - No marking required
 
         .. raw:: latex
@@ -551,7 +551,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 9
+    * - 3.4.3.9
       - No marking required
 
         .. raw:: latex
@@ -581,7 +581,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1031_packaging_materials:
+.. _tbl_packaging_materials:
 
 .. list-table:: Packaging materials
     :class: longtable
@@ -591,7 +591,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
     * - Item #
       - Description
       - Signature/Stamp
-    * - 1
+    * - 3.4.4.1
       - No marking required
 
         .. raw:: latex
@@ -607,7 +607,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 2
+    * - 3.4.4.2
       - No marking required
 
         .. raw:: latex
@@ -623,7 +623,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 3
+    * - 3.4.4.3
       - No marking required
 
         .. raw:: latex
@@ -639,7 +639,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 4
+    * - 3.4.4.4
       - No marking required
 
         .. raw:: latex
@@ -655,7 +655,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 5
+    * - 3.4.4.5
       - No marking required
 
         .. raw:: latex
@@ -671,7 +671,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
-    * - 6
+    * - 3.4.4.6
       - No marking required
 
         .. raw:: latex

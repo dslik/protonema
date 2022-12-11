@@ -2,22 +2,22 @@
 Bill of materials
 *****************
 
-1031A Pi Pico Stamp
--------------------
+:math:`\constProdNum` :math:`\constProdNameUpper`
+-------------------------------------------------
 
-The parts required to assemble a 1031A are listed in :numref:`tbl_1031A_parts`.
+The parts required to assemble a :math:`\constProdNum` are listed in :numref:`tbl_product_parts`.
 
 .. tabularcolumns:: |>{\raggedright\arraybackslash}\Y{0.15}
                     |>{\raggedright\arraybackslash}\Y{0.06}
                     |>{\raggedright\arraybackslash}\Y{0.23}
                     |>{\raggedright\arraybackslash}\Y{0.15}
-                    |>{\raggedright\arraybackslash}\Y{0.22}
-                    |>{\raggedright\arraybackslash}\Y{0.10}
+                    |>{\raggedright\arraybackslash}\Y{0.20}
+                    |>{\raggedright\arraybackslash}\Y{0.12}
                     |>{\raggedright\arraybackslash}\Y{0.09}|
 
-.. _tbl_1031A_parts:
+.. _tbl_product_parts:
 
-.. list-table:: 1031A parts
+.. list-table:: :math:`\constProdNum` parts
     :class: longtable
     :header-rows: 1
     :align: center 
@@ -149,22 +149,22 @@ The parts required to assemble a 1031A are listed in :numref:`tbl_1031A_parts`.
       - 
       - $17.20 CAD
 
-1031A Packaging
----------------
+:math:`\constProdNum` Packaging
+-------------------------------
 
-The parts required to package a 1031A are listed in :numref:`tbl_1031A_packing_parts`.
+The parts required to package a :math:`\constProdNum` are listed in :numref:`tbl_product_packing_parts`.
 
 .. tabularcolumns:: |>{\raggedright\arraybackslash}\Y{0.15}
                     |>{\raggedright\arraybackslash}\Y{0.06}
                     |>{\raggedright\arraybackslash}\Y{0.23}
                     |>{\raggedright\arraybackslash}\Y{0.15}
-                    |>{\raggedright\arraybackslash}\Y{0.22}
-                    |>{\raggedright\arraybackslash}\Y{0.10}
+                    |>{\raggedright\arraybackslash}\Y{0.20}
+                    |>{\raggedright\arraybackslash}\Y{0.12}
                     |>{\raggedright\arraybackslash}\Y{0.09}|
 
-.. _tbl_1031A_packing_parts:
+.. _tbl_product_packing_parts:
 
-.. list-table:: 1031A packing parts
+.. list-table:: :math:`\constProdNum` packing parts
     :class: longtable
     :header-rows: 1
     :align: center 

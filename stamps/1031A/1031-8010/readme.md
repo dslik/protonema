@@ -34,4 +34,4 @@ Building the Document
 14. Download the .zip archive of this repository
 15. From the Mac Terminal, in the 1031A-master directory, cd into the docs/assembly directory
 16. Run `make latexpdf` to build the document
-16. Run `open _build/latex/1031-8010.pdf` to open the newly built PDF
+17. Run `open _build/latex/1031-8010.pdf` to open the newly built PDF
