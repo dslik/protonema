@@ -5,7 +5,7 @@
 
 Definition | Prototype HW | Final HW | Software | Assembly Docs | Usage Docs |
 |-|-|-|-|-|-|
-100% | 100% | 100% | N/A | 90% | 0% |
+100% | 100% | 100% | N/A | 100% | 0% |
 
 ## Project Overview
 The Protonema baseboard is a letter-sized portable prototyping board various stamps can be attached.
