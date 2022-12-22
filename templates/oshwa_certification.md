@@ -20,7 +20,7 @@ Project name: _**PROTONEMA 1038A**_
 
 Project version: **1.0**
 
-Have you previously registered a version(s) of your project with OSHWA?: _**If this is an update to an existing registration, ¥put the OSHWA certification number here.**_
+Have you previously registered a version(s) of your project with OSHWA?: _**If this is an update to an existing registration, put the OSHWA certification number here.**_
 
 Project description: _**Four-digit LED display stamp for the Protonema electronics prototyping system.**_
 
