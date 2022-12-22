@@ -2,12 +2,12 @@
 Printed Circuit Boards
 **********************
 
-1510-0101 PCB
---------------
+:math:`\constPartNum`-0101 PCB
+------------------------------
 
 .. tabularcolumns:: |>{\raggedright\arraybackslash}\Y{1}|
 
-.. _tbl_pcb_1510_0101:
+.. _tbl_pcbs_images:
 
 .. list-table:: 1510-0101 PCB
     :class: longtable

@@ -59,7 +59,7 @@ Obtain each of the below consumable items from the stores department:
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_consumables:
+.. _tbl_consumables:
 
 .. list-table:: Assembly consumables
     :class: longtable
@@ -102,7 +102,7 @@ Obtain each of the below consumable items from the stores department:
 Project tools
 *************
 
-Obtain a tools container labelled "1XXX Assembly Tools" from the 1XXX section of the stores supply shelf. At your assembly desk, use :numref:`tbl_1510_tools` to verify that all the required tools are present.
+Obtain a tools container labelled "1XXX Assembly Tools" from the 1XXX section of the stores supply shelf. At your assembly desk, use :numref:`tbl_tools` to verify that all the required tools are present.
 
 If any required tools are missing, return all tools and the tools container to the stores department, and obtain another tools container.
 
@@ -120,7 +120,7 @@ Remove each of the following tools from the tools container, and place them on t
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_tools:
+.. _tbl_tools:
 
 .. list-table:: Assembly tools
     :class: longtable
@@ -204,7 +204,7 @@ NOTICE: PCBs are removed from manufacturer packaging only when needed.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_pcbs:
+.. _tbl_pcbs:
 
 .. list-table:: PCBs and PCBAs
     :class: longtable
@@ -244,7 +244,7 @@ All loose components are stored on the shelf labelled "1XXX Components". Take th
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_loose_parts:
+.. _tbl_loose_parts:
 
 .. list-table:: Loose components
     :class: longtable
@@ -332,7 +332,7 @@ All packaging materials are stored on the shelf labelled "15XX Components". Take
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_packaging_materials:
+.. _tbl_packaging_materials:
 
 .. list-table:: Packaging materials
     :class: longtable

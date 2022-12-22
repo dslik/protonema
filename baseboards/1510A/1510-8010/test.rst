@@ -11,9 +11,9 @@ This test process takes 2 minutes.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_visual_inspection:
+.. _tbl_visual_inspection:
 
-.. list-table:: 1510A visual inspection
+.. list-table:: :math:`\constProdNum` visual inspection
     :class: longtable
     :header-rows: 1
     :align: center 
@@ -47,9 +47,9 @@ This test process takes 2 minutes.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_qc_final:
+.. _tbl_qc_final:
 
-.. list-table:: 1510A QC final check
+.. list-table:: :math:`\constProdNum` QC final check
     :class: longtable
     :header-rows: 1
     :align: center 
@@ -139,9 +139,9 @@ This test process takes 1 minutes.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_qc_approval:
+.. _tbl_qc_approval:
 
-.. list-table:: 1510A QC approval
+.. list-table:: :math:`\constProdNum` QC approval
     :class: longtable
     :header-rows: 1
     :align: center 
@@ -160,7 +160,7 @@ This test process takes 1 minutes.
             :align:  center
             :figwidth: 100%
            
-            1510A with QC Passed sticker
+            :math:`\constProdNum` with QC Passed sticker
       - 
         .. raw:: latex
 
@@ -176,13 +176,13 @@ This test process takes 1 minutes.
             :align:  center
             :figwidth: 100%
            
-            1510A with SN and QC Date
+            :math:`\constProdNum` with SN and QC Date
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
     * - 5.3.3
-      - Take two photographs, one of the front of the 1510A, and one of the back of the 1510A.
+      - Take two photographs, one of the front of the :math:`\constProdNum`, and one of the back of the :math:`\constProdNum`.
       - 
         .. raw:: latex
 
@@ -203,9 +203,9 @@ This test process takes 2 minutes.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_qc_fail:
+.. _tbl_qc_fail:
 
-.. list-table:: 1510A QC fail
+.. list-table:: :math:`\constProdNum` QC fail
     :class: longtable
     :header-rows: 1
     :align: center 
@@ -214,7 +214,7 @@ This test process takes 2 minutes.
       - Description
       - Signature/Stamp
     * - 5.4.1
-      - Place the 1510A module in the anti-static bag.
+      - Place the :math:`\constProdNum` module in the anti-static bag.
 
         .. raw:: latex
 
@@ -224,13 +224,13 @@ This test process takes 2 minutes.
             :align:  center
             :figwidth: 100%
            
-            1510A in anti-static bag.
+            :math:`\constProdNum` in anti-static bag.
       - 
         .. raw:: latex
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
     * - 5.4.2
-      - Take an A4 plastic bag, and place the 1510A, along with this document, in the "QC Fail" bin
+      - Take an A4 plastic bag, and place the :math:`\constProdNum`, along with this document, in the "QC Fail" bin
 
         .. raw:: latex
 
@@ -240,7 +240,7 @@ This test process takes 2 minutes.
             :align:  center
             :figwidth: 100%
            
-            1510A in QC Fail bin.
+            :math:`\constProdNum` in QC Fail bin.
       - 
         .. raw:: latex
 

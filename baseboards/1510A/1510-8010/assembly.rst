@@ -2,8 +2,8 @@
 Assembly
 ********
 
-1510A assembly
-**************
+:math:`\constProdNum` assembly
+******************************
 
 This assembly step takes 20 minutes.
 
@@ -11,9 +11,9 @@ This assembly step takes 20 minutes.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_0B_assembly:
+.. _tbl_assembly_1:
 
-.. list-table:: 1510A assembly steps
+.. list-table:: :math:`\constProdNum` assembly steps
     :class: longtable
     :header-rows: 1
     :align: center 

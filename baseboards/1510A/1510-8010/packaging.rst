@@ -2,8 +2,8 @@
 Packaging
 *********
 
-1510A packing
-*************
+:math:`\constProdNum` packing
+*****************************
 
 This packaging process takes 3 minutes.
 
@@ -11,9 +11,9 @@ This packaging process takes 3 minutes.
                     |>{\raggedright\arraybackslash}\Y{0.70}
                     |>{\raggedright\arraybackslash}\Y{0.20}|
 
-.. _tbl_1510_packaging:
+.. _tbl_packaging:
 
-.. list-table:: 1510A packaging
+.. list-table:: :math:`\constProdNum` packaging
     :class: longtable
     :header-rows: 1
     :align: center 
