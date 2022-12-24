@@ -488,7 +488,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/packing_sticker.jpg
             :align:  center
             :figwidth: 100%
            

@@ -58,7 +58,7 @@ This test process takes 2 minutes.
       - Description
       - Signature/Stamp
     * - 1
-      - Connect the 1012A to a baseboard, and connect power. Using a 1510-0201 and a 1510-0301 board, verify 5V and 3.3V for each breadboard power rail.
+      - Connect the 1012A to a baseboard, and connect power. Using a 1012-0201 and a 1012-0301 power bridge board, verify 5V and 3.3V for each breadboard power rail.
 
         .. raw:: latex
 
@@ -70,11 +70,11 @@ This test process takes 2 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/qc_step_1.jpg
             :align:  center
             :figwidth: 100%
            
-            Powered 1012-0101 PCB with illuminated 1510-0201 and 1510-0301 boards
+            Powered 1012-0101 PCB with illuminated 1012-0201 and 1012-0301 power bridges
       - 
         .. raw:: latex
 

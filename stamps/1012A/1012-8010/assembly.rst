@@ -134,7 +134,7 @@ This assembly step takes 5 minutes.
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
     * - 4.8
-      - Screw eight nuts onto the rear of the eight breadboard screws. Do not screw too tightly (finger-tight).
+      - Screw eight nuts onto the rear of the eight breadboard screws. Do not screw too tightly (finger-tighten only).
 
         .. raw:: latex
 
@@ -150,7 +150,7 @@ This assembly step takes 5 minutes.
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
     * - 4.8
-      - Screw four short screws into four standoffs for each of the four corners of the breadboard. Do not screw too tightly (finger-tight).
+      - Screw four short screws into four standoffs for each of the four corners of the breadboard. Do not screw too tightly (finger-tighten only).
 
         .. raw:: latex
 
