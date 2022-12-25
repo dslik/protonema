@@ -92,21 +92,21 @@ The parts required to assemble a :math:`\constProdNum` are listed in :numref:`tb
       - MMBT2222A
       - `Digikey <https://www.digikey.ca/en/products/detail/nexperia-usa-inc/MMBT2222A-215/1156598>`_
       - $0.88 CAD
-    * - MP1 - MP8
-      - 8
-      - Screw - M3 15mm White Nylon Phillips Socket Flat Head
+    * - MP1 - MP4
+      - 4
+      - Screw - M3 5mm Black Nylon Phillips Socket Button Head
       - Order By Description
       - 
       - 
-      - $0.66 CAD
-    * - MP9 - MP12
+      - $0.25 CAD
+    * - MP5 - MP8
       - 4
       - Standoff - M3 11mm+6 Black Nylon
       - Order By Description
       - 
       - 
       - $0.30 CAD
-    * - MP13 - MP16
+    * - MP9 - MP12
       - 4
       - Nut - M3 Black Nylon
       - Order By Description
@@ -126,7 +126,7 @@ The parts required to assemble a :math:`\constProdNum` are listed in :numref:`tb
       - 
       - 
       - 
-      - $9.60 CAD
+      - $9.19 CAD
 
 :math:`\constProdNum` Packaging
 -------------------------------
