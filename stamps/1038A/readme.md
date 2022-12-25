@@ -5,7 +5,7 @@
 
 Definition | Prototype HW | Final HW | Software | Assembly Docs | Usage Docs |
 |-|-|-|-|-|-|
-100% | 100% | 100% | 100% | 90% | 0% |
+100% | 100% | 100% | 100% | 100% | 0% |
 
 ## Project Overview
 The Protonema LED Display stamp demonstrates how to drive a four-digit LED display using multiplexing.
