@@ -26,7 +26,7 @@ Protonema includes:
 Part # | Name | Status | BOM Cost | OSHWA | Cert # |
 |-|-|-|-|-|-|
 | [1011A v1.0](./stamps/1011A) | [Horizontal Breadboard Stamp](./stamps/1011A) | Complete | $14.98 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000016](https://certification.oshwa.org/ca000016.html) |
-| [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Draft | $19.84 CAD | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Complete | $19.84 CAD | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1031A v1.1](./stamps/1031A) | [Raspberry Pi Pico Stamp](./stamps/1031A) | Complete | $17.20 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000020](https://certification.oshwa.org/ca000020.html) |
 | [1032A v1.0](./stamps/1032A) | [LED Matrix Stamp](./stamps/1032A) | Complete | $10.35 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000019](https://certification.oshwa.org/ca000019.html) |
 | [1038A v1.0](./stamps/1038A) | [LED Display Stamp](./stamps/1038A) | Complete | $9.60 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000018](https://certification.oshwa.org/ca000018.html) |
