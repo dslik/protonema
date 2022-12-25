@@ -176,7 +176,7 @@ This test process takes 2 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/qc_fail_step_2.jpg
             :align:  center
             :figwidth: 100%
            

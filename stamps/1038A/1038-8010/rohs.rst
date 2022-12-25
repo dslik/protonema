@@ -208,23 +208,23 @@ Nexperia MMBT2222A
             :align:  center
             :figwidth: 97%
 
-M3 8mm Nylon Screw
+M3 5mm Nylon Screw
 ------------------
 
 .. tabularcolumns:: |>{\raggedright\arraybackslash}\Y{1}|
 
 .. _tbl_rohs_nylon_m3_screw:
 
-.. list-table:: M3 8mm Nylon Screw RoHS Compliance
+.. list-table:: M3 5mm Nylon Screw RoHS Compliance
     :class: longtable
     :header-rows: 1
     :align: center 
 
-    * - Declaration for M3 8mm Nylon Screw - N/A
+    * - Declaration for M3 5mm Nylon Screw - N/A
     * - 
         .. _fig_rohs_nylon_m3_screw:
 
-        .. figure:: /images/rohs/M3-8-screw-RoHS.pdf
+        .. figure:: /images/rohs/M3-5-screw-RoHS.jpg
             :align:  center
             :figwidth: 97%
 
@@ -244,7 +244,7 @@ M3 11mm Nylon Standoff
     * - 
         .. _fig_rohs_nylon_m3_standoff:
 
-        .. figure:: /images/rohs/M3-11-standoff-RoHS.pdf
+        .. figure:: /images/rohs/M3-11-standoff-RoHS.jpg
             :align:  center
             :figwidth: 97%
 
@@ -264,7 +264,7 @@ M3 Nylon Bolt
     * - 
         .. _fig_rohs_nylon_m3_bolt:
 
-        .. figure:: /images/rohs/M3-bolt-RoHS.pdf
+        .. figure:: /images/rohs/M3-bolt-RoHS.jpg
             :align:  center
             :figwidth: 97%
 

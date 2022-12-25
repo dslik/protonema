@@ -249,7 +249,7 @@ All reels are stored in the bin labelled "1XXX Reels" on the shelf labelled "1XX
 
 .. _fig_assembly_reels:
 
-.. figure:: /images/fpo_half.pdf
+.. figure:: /images/parts_reels.jpg
     :align:  center
     :figwidth: 100%
    
@@ -508,7 +508,7 @@ All packaging materials are stored on the shelf labelled "1XXX Components". Take
             :align:  center
             :figwidth: 100%
            
-            1x Long size anti-static bag
+            1x Square 4"x4" size anti-static bag
       - 
         .. raw:: latex
 
