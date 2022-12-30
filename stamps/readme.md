@@ -18,11 +18,17 @@ The LED Matrix stamp is an 8x8 LED matrix that can be used to display small imag
 
 The LED Display stamp is a 4 digit seven-segment LED display that can be used to display small numeric values. It is connected to a processor stamp using multiplexed GPIO lines.
 
+### 1052A Stamp - Quad 3.5mm Jack Stamp
+
+![1052A](./1052A/1052-0101/latest/pcb_top.png) ![1052A](./1052A/1052-0201/latest/pcb_top.png)
+
+The quad 3.5mm jack stamp allows you to connect 3.5mm cables to your project, for example, when prototyping Eurorack synth modules. Two jacks are labelled for inputs, and two jacks are labelled for outputs.
+
 ### 1060A Stamp - Dual Potentiometers Stamp
 
 ![1060A](./1060A/1060-0101/latest/pcb_top.png) ![1060A](./1060A/1060-0201/latest/pcb_top.png)
 
-The dual potentiometers lets you add two variable resistors to yoru project.
+The dual potentiometer stamp allows you add two variable resistors to your project.
 
 ### 1068A Stamp - Intelligent Display Stamp
 
