@@ -18,6 +18,12 @@ The LED Matrix stamp is an 8x8 LED matrix that can be used to display small imag
 
 The LED Display stamp is a 4 digit seven-segment LED display that can be used to display small numeric values. It is connected to a processor stamp using multiplexed GPIO lines.
 
+### 1060A Stamp - Dual Potentiometers Stamp
+
+![1060A](./1060A/1060-0101/latest/pcb_top.png) ![1060A](./1060A/1060-0201/latest/pcb_top.png)
+
+The dual potentiometers lets you add two variable resistors to yoru project.
+
 ### 1068A Stamp - Intelligent Display Stamp
 
 ![1068A](./1068A/1068-0101/latest/pcb_top.png)
