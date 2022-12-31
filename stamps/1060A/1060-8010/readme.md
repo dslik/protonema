@@ -1,6 +1,6 @@
-# 1032A Assembly Manual
+# 1060A Assembly Manual
 
-This repository contains the source files used to build document number 1032-8010, the 1032A Assembly manual.
+This repository contains the source files used to build document number 1060-8010, the 1060A Assembly manual.
 
 The document is written using reStructuredText, and built using Sphinx (http://www.sphinx-doc.org/en/master/) to generate a PDF via LaTeX.
 
@@ -34,4 +34,4 @@ Building the Document
 14. Download the .zip archive of this repository
 15. From the Mac Terminal, in the 1032A-main directory, cd into the docs/assembly directory
 16. Run `make latexpdf` to build the document
-17. Run `open _build/latex/1032-8010.pdf` to open the newly built PDF
+17. Run `open _build/latex/1060-8010.pdf` to open the newly built PDF
