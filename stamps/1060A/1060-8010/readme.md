@@ -32,6 +32,6 @@ Building the Document
 ---------------------
 
 14. Download the .zip archive of this repository
-15. From the Mac Terminal, in the 1032A-main directory, cd into the docs/assembly directory
+15. From the Mac Terminal, in the 1060A-main directory, cd into the docs/assembly directory
 16. Run `make latexpdf` to build the document
 17. Run `open _build/latex/1060-8010.pdf` to open the newly built PDF
