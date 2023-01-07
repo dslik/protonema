@@ -38,7 +38,7 @@ This packaging process takes 3 minutes.
 
           \includegraphics[align=t,scale=1]{../../images/doc_stamp.pdf}
     * - 6.1.2
-      - Place four nylon nuts in a small anti-static bag, and add the bottom of the bag to the bag the :math:`\constProdNum` module is in.
+      - Place four nylon nuts in a small anti-static bag, and add insert into the bottom of the bag that the :math:`\constProdNum` module is in.
 
         .. raw:: latex
 
@@ -60,7 +60,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_3.jpg
             :align:  center
             :figwidth: 100%
            
@@ -76,7 +76,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_4.jpg
             :align:  center
             :figwidth: 100%
            
@@ -92,7 +92,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_5.jpg
             :align:  center
             :figwidth: 100%
            
@@ -114,7 +114,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_7.jpg
             :align:  center
             :figwidth: 100%
            
@@ -130,7 +130,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_8.jpg
             :align:  center
             :figwidth: 100%
            
@@ -146,7 +146,7 @@ This packaging process takes 3 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/package_step_9.jpg
             :align:  center
             :figwidth: 100%
            

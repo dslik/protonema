@@ -100,11 +100,11 @@ Alpha RV09AF
     :header-rows: 1
     :align: center 
 
-    * - Declaration for Alpha RV09AF - Received via e-mail
+    * - Declaration for Alpha RV09AF - http://www.taiwanalpha.com/downloads?target=investor&id=231
     * - 
         .. _fig_rohs_alpha_RV09AF:
 
-        .. figure:: /images/fpo_cover.pdf
+        .. figure:: /images/rohs/taiwanalpha_rohs.pdf
             :align:  center
             :figwidth: 97%
 
@@ -168,7 +168,7 @@ M3 9mm Nylon Standoff
     * - 
         .. _fig_rohs_nylon_m3_9standoff:
 
-        .. figure:: /images/fpo_cover.pdf
+        .. figure:: /images/rohs/M3-9-standoff-RoHS.jpg
             :align:  center
             :figwidth: 97%
 

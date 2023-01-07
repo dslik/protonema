@@ -58,7 +58,7 @@ This test process takes 2 minutes.
       - Description
       - Signature/Stamp
     * - 5.2.1
-      - Connect the 1060A to a baseboard and to a pre-programmed 1031A and 1037A, as shown below. Connect power and verify that as you turn the potentiometer, it varies from 0% to 100%.
+      - Connect the 1060A to a baseboard with a pre-programmed 1031A and 1068A, as shown below. Connect power. Two different voltage measurements will be displayed, alternating between them. Turn each of the potentiometers and verify that the voltage level changes. Check to make sure you can get close to 0V and 3V.
 
         .. raw:: latex
 
@@ -70,11 +70,11 @@ This test process takes 2 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/qc_step_1.jpg
             :align:  center
             :figwidth: 100%
            
-            Powered 1060A being tested by a 1031A.
+            Powered 1060A being tested by a 1031A and 1068A.
       - 
         .. raw:: latex
 
@@ -176,7 +176,7 @@ This test process takes 2 minutes.
 
           \vspace*{1ex}
 
-        .. figure:: /images/fpo_table.pdf
+        .. figure:: /images/qc_fail_step_1.jpg
             :align:  center
             :figwidth: 100%
            
