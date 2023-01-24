@@ -26,12 +26,12 @@ Protonema includes:
 Part # | Name | Status | BOM Cost | OSHWA | Cert # |
 |-|-|-|-|-|-|
 | [1011A v1.0](./stamps/1011A) | [Horizontal Breadboard Stamp](./stamps/1011A) | Complete | $14.98 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000016](https://certification.oshwa.org/ca000016.html) |
-| [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Complete | $19.84 CAD | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Complete | $19.84 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000022](https://certification.oshwa.org/ca000022.html) |
 | [1031A v1.1](./stamps/1031A) | [Raspberry Pi Pico Stamp](./stamps/1031A) | Complete | $17.20 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000020](https://certification.oshwa.org/ca000020.html) |
 | [1032A v1.0](./stamps/1032A) | [LED Matrix Stamp](./stamps/1032A) | Complete | $10.35 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000019](https://certification.oshwa.org/ca000019.html) |
 | [1038A v1.0](./stamps/1038A) | [LED Display Stamp](./stamps/1038A) | Complete | $9.19 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000018](https://certification.oshwa.org/ca000018.html) |
 | [1060A v1.0](./stamps/1060A) | [Dual Potentiometer Stamp](./stamps/1060A)  | Complete | $6.92 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000024](https://certification.oshwa.org/ca000024.html) |
 | 1065A v1.0 | SD Card Stamp | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1510A v1.0](./baseboards/1510A) | [3x4 Baseboard](./baseboards/1510A) | Complete | $17.57 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000015](https://certification.oshwa.org/ca000015.html) |
-| [1522A v1.0](./baseboards/1522A) | [2x2 Baseboard](./baseboards/1522A) | Draft | $7.36 CAD | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1522A v1.0](./baseboards/1522A) | [2x2 Baseboard](./baseboards/1522A) | Draft | $7.36 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000023](https://certification.oshwa.org/ca000023.html) |
 | 1532A v1.0 | 3x2 Baseboard | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
