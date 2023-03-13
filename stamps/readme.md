@@ -36,6 +36,12 @@ The dual potentiometer stamp allows you add two variable resistors to your proje
 
 The Intelligent Display stamp is a 4 character smart display that can be used to display small text messages and custom graphics. It is connected to a processor stamp using a simple serial protocol.
 
+### 1094A Stamp - Sliders Stamp
+
+![1094A](./1094A/1094-0101/latest/pcb_top.png) ![1094A](./1094A/1094-0201/latest/pcb_top.png)
+
+The sliders stamp two slide-style variable resistors to your project, each with a LED.
+
 # Breadboard Stamps
 
 ### 1011A Horizontal Breadboard Stamp
