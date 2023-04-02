@@ -13,5 +13,5 @@ The Protonema 1532A baseboard is a compact portable prototyping board that up to
 * Provide a low-cost, compact and portable prototyping board that can accommodate a variety of combinations of breadboard and stamps.
 
 ## Project Deliverables
-* [Baseboard PCB design](https://github.com/dslik/protonema/tree/main/stamps/1532A/1532-0101/latest)
+* [Baseboard PCB design](https://github.com/dslik/protonema/tree/main/baseboards/1532A/1532-0101/latest)
 * Assembly documentation
