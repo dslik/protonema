@@ -42,6 +42,14 @@ The Intelligent Display stamp is a 4 character smart display that can be used to
 
 The sliders stamp two slide-style variable resistors to your project, each with a LED.
 
+# H500 Computer Lab
+
+### 1121A Stamp - Indicators
+
+![1121A](./1121A/1121-0101/latest/pcb_top.png)
+
+Provides eight LED indicators to monitor digital signals when experimenting with digital logic.
+
 # Breadboard Stamps
 
 ### 1011A Horizontal Breadboard Stamp
