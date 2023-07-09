@@ -54,10 +54,11 @@ The sliders stamp two slide-style variable resistors to your project, each with 
 
 # Templates
 
-### 1020A/1021A/1022A Stamps - Templates
+### 1020A-1024A Stamps - Templates
 
 ![1020A](./1020A/1020-0101/latest/pcb_top.png) ![1021A](./1021A/1021-0101/latest/pcb_top.png)
-![1022A](./1022A/1022-0101/latest/pcb_top.png) ![Template](./images/stamp_template.jpg)
+![1022A](./1022A/1022-0101/latest/pcb_top.png) ![1023A](./1023A/1023-0101/latest/pcb_top.png) 
+![1024A](./1024A/1024-0101/latest/pcb_top.png) ![Template](./images/stamp_template.jpg)
 
 Use these as a starting point for creating your own stamps.
 
