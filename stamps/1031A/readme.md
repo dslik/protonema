@@ -10,6 +10,8 @@ Definition | Prototype HW | Final HW | Software | Assembly Docs | Usage Docs |
 ## Project Overview
 The Protonema Pi Pico board allows a Raspberry Pi microcontroller to be connected to protonema circuits.
 
+Version 1.2 switches over to the standard [Pi Pico 3-pin debugging connectors](https://datasheets.raspberrypi.com/debug/debug-connector-specification.pdf). You can also order these boards with all SMT components pre-assembled from JLCPCB.
+
 ## Project Goals
 * Provide a starting point for experimenting with and programming Pi Pico microcontrollers.
 
