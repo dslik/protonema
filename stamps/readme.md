@@ -52,6 +52,10 @@ The sliders stamp two slide-style variable resistors to your project, each with 
 
 ![1012A](./1012A/1012-0101/latest/pcb_top.png)
 
+### 1013A Triple Breadboard Stamp
+
+![1013A](./1013A/1013-0101/latest/pcb_top.png)
+
 ### 1015A Mini Breadboard Stamp
 
 ![1015A](./1015A/1015-0101/latest/pcb_top.png)

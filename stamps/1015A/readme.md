@@ -13,5 +13,5 @@ The Protonema Mini Breadboard occupies one stamp location and provides a small 1
 * Provide a tiny breadboard for prototyping.
 
 ## Project Deliverables
-* [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1011A/1011-0101/latest)
+* [Stamp PCB design](https://github.com/dslik/protonema/tree/main/stamps/1015A/1015-0101/latest)
 * Assembly documentation
