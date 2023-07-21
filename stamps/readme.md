@@ -12,6 +12,12 @@ The Raspberry Pi Pico stamp allows for experimentation with microcontrollers usi
 
 The LED Matrix stamp is an 8x8 LED matrix that can be used to display small images and create simple games. It is connected to a processor stamp using multiplexed GPIO lines.
 
+### 1034A Stamp - Prototyping Stamp
+
+![1032A](./1034A/1034-0101/latest/pcb_top.png) ![1032A](./1034A/1034-0201/latest/pcb_top.png)
+
+The prototyping stamp provides a breadboard-style layout for quickly and easily soldering through-hole components to create custom stamps.
+
 ### 1038A Stamp - LED Display Stamp
 
 ![1038A](./1038A/1038-0101/latest/pcb_top.png)
