@@ -1,4 +1,4 @@
-# Protonema PIC Board
+# Protonema Decoder Board
 
 ## Project Status
 
@@ -7,10 +7,11 @@ Definition | Prototype HW | Final HW | Software | Assembly Docs | Usage Docs |
 30% | 0% | 0% | 0% | 0% | 0% |
 
 ## Project Overview
-The Protonema PIC board allows use of a PIC microcontroller.
+The Protonema decoder board provides a four-input/sixteen-output binary decoder.
 
 ## To Do List
 
-- Update to new template (rotate 90° CCW)
+- Update to new template
 - Add bottom layer ground pour
-- Test V0.4 rev
+- Switch over to 5V
+- Add input/output LEDs
