@@ -27,9 +27,18 @@ Part # | Name | Status | BOM Cost | OSHWA | Cert # |
 |-|-|-|-|-|-|
 | [1011A v1.0](./stamps/1011A) | [Horizontal Breadboard Stamp](./stamps/1011A) | Complete | $14.98 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000016](https://certification.oshwa.org/ca000016.html) |
 | [1012A v1.0](./stamps/1012A) | [Vertical Breadboard Stamp](./stamps/1012A)  | Complete | $19.84 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000022](https://certification.oshwa.org/ca000022.html) |
+| [1030A v0.4](./stamps/1030A) | [PIC Stamp](./stamps/1030A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1031A v1.1](./stamps/1031A) | [Raspberry Pi Pico Stamp](./stamps/1031A) | Complete | $17.20 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000020](https://certification.oshwa.org/ca000020.html) |
 | [1032A v1.0](./stamps/1032A) | [LED Matrix Stamp](./stamps/1032A) | Complete | $10.35 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000019](https://certification.oshwa.org/ca000019.html) |
+| [1033A v0.3](./stamps/1033A) | [Decoder Stamp](./stamps/1033A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1034A v1.0](./stamps/1034A) | [Protoboard Stamp](./stamps/1034A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1035A v0.2](./stamps/1035A) | [ESP32 Stamp](./stamps/1035A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1036A v0.1](./stamps/1036A) | [Pi Pico Interface Stamp](./stamps/1036A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1037A v1.1](./stamps/1037A) | [LCD Display Stamp](./stamps/1037A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1038A v1.0](./stamps/1038A) | [LED Display Stamp](./stamps/1038A) | Complete | $9.19 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000018](https://certification.oshwa.org/ca000018.html) |
+| [1039A v1.0](./stamps/1039A) | [Intersection Simulator Stamp](./stamps/1039A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1040A v1.0](./stamps/1040A) | [Smart LED Level Shifter Stamp](./stamps/1040A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+| [1041A v1.0](./stamps/1041A) | [Train Simulator Stamp](./stamps/1041A) | In Progress | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | 1052A v1.0 | 3.5mm Jack I/O | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | [1060A v1.0](./stamps/1060A) | [Dual Potentiometer Stamp](./stamps/1060A)  | Complete | $6.92 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000024](https://certification.oshwa.org/ca000024.html) |
 | 1065A v1.0 | SD Card Stamp | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
