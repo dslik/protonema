@@ -21,7 +21,14 @@ Protonema includes:
 * Extensible: Pluggable [stamps](stamps/readme.md) implement functions not easily constructed on a breadboard. This allows the system to be used to teach and prototype a wide variety of different subject areas, including power electronics, computer organization, audio processing, etc.
 * Built-in 3V3 and 5V power distribution, with clear visual indication of power domains
 
-## Components
+## Baseboards
+
+Part # | Name | Status | BOM Cost | OSHWA | Cert # |
+|-|-|-|-|-|-|
+| [1510A v1.0](./baseboards/1510A) | [3x4 Baseboard](./baseboards/1510A) | Complete | $17.57 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000015](https://certification.oshwa.org/ca000015.html) |
+| [1522A v1.0](./baseboards/1522A) | [2x2 Baseboard](./baseboards/1522A) | Draft | $7.36 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000023](https://certification.oshwa.org/ca000023.html) |
+| [1532A v1.1](./baseboards/1532A) | [3x2 Baseboard](./baseboards/1532A) | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+## Stamps
 
 Part # | Name | Status | BOM Cost | OSHWA | Cert # |
 |-|-|-|-|-|-|
@@ -43,6 +50,4 @@ Part # | Name | Status | BOM Cost | OSHWA | Cert # |
 | [1060A v1.0](./stamps/1060A) | [Dual Potentiometer Stamp](./stamps/1060A)  | Complete | $6.92 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000024](https://certification.oshwa.org/ca000024.html) |
 | 1065A v1.0 | SD Card Stamp | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
 | 1094A v1.0 | Sliders | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
-| [1510A v1.0](./baseboards/1510A) | [3x4 Baseboard](./baseboards/1510A) | Complete | $17.57 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000015](https://certification.oshwa.org/ca000015.html) |
-| [1522A v1.0](./baseboards/1522A) | [2x2 Baseboard](./baseboards/1522A) | Draft | $7.36 CAD | ![OSHWA Logo](./images/oshwa_cert_logo.png) | [CA000023](https://certification.oshwa.org/ca000023.html) |
-| [1532A v1.1](./baseboards/1532A) | [3x2 Baseboard](./baseboards/1532A) | Coming Soon | | ![Not OSHWA Certified](./images/oshwa_cert_no.png) | |
+
