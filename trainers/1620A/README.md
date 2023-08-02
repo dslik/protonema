@@ -14,6 +14,27 @@ Full assembly instructions will be uploaded soon.
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-07-31
+
+The assembled PCBs have arrived! After soldering in the through-hole components, and testing everyting before pluggin in the ALU IC, almost everything is working.
+
+![image](https://github.com/dslik/protonema/assets/5757591/bfd7f0f2-4fc1-4f6f-b871-feb2e840938d)
+
+Here is the ALU trainer showing that 1 + 1 = 2.
+
+Lots of little changes needed for the next revision of the PCB (V0.2):
+
+- Increase resistance beyond 4.3K to further reduce LED brightness. These newer high-efficiency LEDs are so bright that the emitted light can bloom when viewed, and make it hard to tell which LED is lit.
+- Rotate DIP switches by 180 degrees. This will make it easier to change the input values.
+- Spread out A/B input LEDs and F output LEDs to match DIP switches. This will make it easier to read the values, and make them match up better.
+- Move the switch LEDs for the right and left switches from the outside edge of the board to the inside position. This will make it so that your hand does not cover up the LEDs when throwing a switch.
+- Fix OSA/OSB LED display logic
+- Swap around S truth table to match the position of the switches.
+- Increase size of LOGIC L4C381GC40 label
+- Fix traces to "F" output LEDs
+- Move ENA/ENB, OSA/OSB and S0/S1/S2 switches slightly apart so that the switches do not tilt
+- Fix control signal voltage level
+
 ## 2023-07-24
 
 The first draft of the ALU trainer PCB is now checked in. The PCBs have manufactured and shipped, so hopefully I will be able to assemble and test this design later this week.
