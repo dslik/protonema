@@ -14,6 +14,14 @@ Full assembly instructions will be uploaded soon.
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-08-02
+
+The updated PCB with all the changes applied is done, and ready to order as part of the next PCB batch.
+
+![image](https://github.com/dslik/protonema/assets/5757591/b78dfacc-2ac7-499c-ae0d-2d7fe5468e16)
+
+Turned out that I didn't mess up the logic for the OSA/OSB displays, but rather I had the wrong part (NAND instead of NOR) that I messed up when copying and pasting the part number.
+
 ## 2023-07-31
 
 The assembled PCBs have arrived! After soldering in the through-hole components, and testing everyting before pluggin in the ALU IC, almost everything is working.
