@@ -16,7 +16,13 @@ Here's a chart of the behaviour:
 
 THe current starts to drop as the PTC warms up, then at time 15 seconds, it transitions into a second state where current is limited to 500 mA.
 
-Since I want someting that completely cuts power to the supply rail during an over-current situation, I am going to investigate a few other options to add to the board. The LPW5209 was recommended, so I'm going to try using that, since I will only be switching 3.3V and 5V. 
+Since I want someting that completely cuts power to the supply rail during an over-current situation, I am going to investigate a few other options to add to the board. The LPW5209 was recommended, so I'm going to try using that, since I will only be switching 3.3V and 5V.
+
+Here is revision 0.4, which will test seperate OCP on each of the two output rails:
+
+![image](https://github.com/dslik/protonema/assets/5757591/32500efa-d8a5-4d2d-bd16-98b148ab7c92)
+
+This board will be included in the next PCB batch.
 
 ## 2023-08-02
 
