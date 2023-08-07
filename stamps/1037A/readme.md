@@ -10,9 +10,23 @@ Initial features include:
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-08-06
+
+After much struggle, I have characters being displayed on the screen! These are being read via SPI from the font IC, which turned out to be pretty challenging since it has shared I/O lines with the SPI display which is being driven by the Pi Pico PIO. So I had to figure out a reliable way to switch between pins being driven by the PIO (to write to the display) and being directly bit-banged (to read from the font IC).
+
+Here's the current output:
+
+![image](https://github.com/dslik/protonema/assets/5757591/6f736e88-d2f7-4584-aa38-c520da5b28d8)
+
+There are a few unexpected pixels set for some characters on the top-left (always in bit positions 1, 2, 3, 4) for which I have not yet been able to track down the cause. It's not consistent either, note the four extra pixels set on the first and third "l", but only three extra pixels set on the second "l". And this changes from run to run.
+
+After getting this far, I'm tempted to create my own font IC using an SPI EEPROM. That way I can have different typeface sizes, and do anti-aliasing using alpha channels.
+
+Next steps are to figure out the character corruption problem, and clean up the software routines. Then I can upload an early version of the test software.
+
 ## 2023-07-25
 
-The parts for the latest revision of this stamp have been sitting on my bench for too long, so it was time to assemble it and start working on the ehnahcements to the software:
+The parts for the latest revision of this stamp have been sitting on my bench for too long, so it was time to assemble it and start working on the enhancements to the software:
 
 ![image](https://github.com/dslik/protonema/assets/5757591/fc11dbb1-885f-42f4-8c07-aecac35c140e)
 
