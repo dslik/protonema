@@ -1,0 +1,30 @@
+G04 Layer: DocumentLayer*
+G04 Panelize: , Column: 2, Row: 2, Board Size: 58.42mm x 58.42mm, Panelized Board Size: 118.84mm x 118.84mm*
+G04 EasyEDA v6.5.34, 2023-08-08 00:03:29*
+G04 60ba9355530941958d7498b2467ee319,5a6b42c53f6a479593ecc07194224c93,10*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,4 integer and 5 decimal *
+%FSLAX45Y45*%
+%MOMM*%
+
+%ADD10C,0.1999*%
+%ADD11C,0.1001*%
+
+%LPD*%
+D10*
+X2704787Y4584997D02*
+G01*
+X4254797Y4584997D01*
+X4254797Y3034987D01*
+X2704787Y3034987D01*
+X2704787Y4584997D01*
+D11*
+X2604787Y4779992D02*
+G01*
+X4354796Y4779992D01*
+X4354796Y2934987D01*
+X2604787Y2934987D01*
+X2604787Y4779992D01*
+M02*
