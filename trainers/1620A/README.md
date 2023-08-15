@@ -28,6 +28,14 @@ Here's the board all assmebled, and ready for the ALU to be inserted into the PG
 
 The LEDs aren't as bright as the previous revision, but they still are really bright. 
 
+And, it's all working!
+
+![image](https://github.com/dslik/protonema/assets/5757591/6403cbda-b191-4f45-af59-830f0d770a98)
+
+I do have one change I will need to make when I put together a production run... I shouldn't have increased the pull-down resistors along with the LED resistors, so I'll have to change those back. And I need to add tooling holes in places I want, rather than the ones they choose.
+
+But other than that, this project is done!
+
 ## 2023-08-02
 
 The updated PCB with all the changes applied is done, and ready to order as part of the next PCB batch.
