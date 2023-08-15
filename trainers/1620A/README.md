@@ -14,6 +14,20 @@ Full assembly instructions will be uploaded soon.
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-08-15
+
+The updated boards came in, and are ready to assemble:
+
+![image](https://github.com/dslik/protonema/assets/5757591/8ec55101-aabc-4297-9cef-391744230868)
+
+Here's hoping that I didn't make any additional mistakes, and this project is ready for production.
+
+Here's the board all assmebled, and ready for the ALU to be inserted into the PGA socket:
+
+![image](https://github.com/dslik/protonema/assets/5757591/427d0c4e-95dc-45a7-827d-b29c4214f94e)
+
+The LEDs aren't as bright as the previous revision, but they still are really bright. 
+
 ## 2023-08-02
 
 The updated PCB with all the changes applied is done, and ready to order as part of the next PCB batch.
