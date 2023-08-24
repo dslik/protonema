@@ -14,6 +14,12 @@ Full assembly instructions will be uploaded soon.
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-08-24
+
+Final "1.0" design changes are made, and ready to be ordered in the next PCB batch.
+
+It's nice to get a project finished!
+
 ## 2023-08-15
 
 The updated boards came in, and are ready to assemble:
