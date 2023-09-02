@@ -10,6 +10,18 @@ Initial features include:
 
 _Feel free to ask questions by opening an issue!_
 
+## 2023-09-02
+
+Finally figured out why there was some data corruption, and fixed it.
+
+The software now lets you display strings with different scaling and different foreground and background colours:
+
+![image](https://github.com/dslik/protonema/assets/5757591/d4798480-8aaf-4485-833a-ca12fb5a2925)
+
+The source code is now checked in under [1037-9101](./1037-9101).
+
+Next steps are to implement UTF-8 handling, and write some additional drawing routines.
+
 ## 2023-08-06
 
 After much struggle, I have characters being displayed on the screen! These are being read via SPI from the font IC, which turned out to be pretty challenging since it has shared I/O lines with the SPI display which is being driven by the Pi Pico PIO. So I had to figure out a reliable way to switch between pins being driven by the PIO (to write to the display) and being directly bit-banged (to read from the font IC).
