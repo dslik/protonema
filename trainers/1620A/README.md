@@ -8,7 +8,7 @@ Initial features include:
 - Control signals for ALU function selection
 - Manual clock
 
-Full assembly instructions will be uploaded soon.
+[Assembly documentation](https://github.com/dslik/protonema/blob/main/trainers/1620A/1620-8201.pdf)
 
 # Build Journal
 
