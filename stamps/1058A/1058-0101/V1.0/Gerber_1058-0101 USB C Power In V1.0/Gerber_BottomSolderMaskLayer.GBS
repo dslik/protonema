@@ -1,7 +1,7 @@
 G04 Layer: BottomSolderMaskLayer*
 G04 Panelize: Stamp Hole, Column: 2, Row: 2, Board Size: 58.42mm x 58.42mm, Panelized Board Size: 122.84mm x 122.84mm*
-G04 EasyEDA v6.5.34, 2023-08-07 12:58:06*
-G04 71aba6b8c95d4410a53b73b9815fad9c,5a6b42c53f6a479593ecc07194224c93,10*
+G04 EasyEDA v6.5.38, 2023-12-21 15:28:39*
+G04 fd97eb0cb9c34c2b97cff67de17a6c99,5a6b42c53f6a479593ecc07194224c93,10*
 G04 Gerber Generator version 0.2*
 G04 Scale: 100 percent, Rotated: No, Reflected: No *
 G04 Dimensions in millimeters *
@@ -50,9 +50,9 @@ G01*
 X4572000Y5588000D03*
 D13*
 G01*
-X1523997Y4825989D03*
+X1524000Y4826000D03*
 G01*
-X1269997Y4825989D03*
+X1270000Y4826000D03*
 D14*
 G01*
 X910818Y2799714D03*
